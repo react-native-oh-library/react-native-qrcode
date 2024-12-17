@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-qrcode",
+        "License": "MIT License",
+        "License File": "https://github.com/cssivision/react-native-qrcode/blob/master/LICENSE",
+        "Version Number": "0.2.7-0.0.2",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/cssivision/react-native-qrcode",
+        "Description": "react-native qrocode generator"
+    }
+]
